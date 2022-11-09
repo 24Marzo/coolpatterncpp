@@ -29,10 +29,7 @@ void printWhiteSpaces() {
     }
         else {
             while(1+1 == 2) {
-                /*
-                this is supposed to be code to make the "second phase" of it, which is to
-                make a rhombus instead of a pyramid
-                */
+
         }
     }
 }
